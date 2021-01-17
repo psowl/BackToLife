@@ -6,5 +6,12 @@ A full-stack website built with Express/NodeJS/Mongoose/Handlebars.
 
 ## Live Demo 
 <a href="https://backtolife.herokuapp.com">**Available here**</a>
-
 <a href="https://backtolife.herokuapp.com"><img src="https://github.com/psowl/BackToLife/blob/master/public/images/homepage.png" width="400" alt="homepage"></a>
+
+### Available demo login
+email: vicky@vicky.com
+password: vicky
+
+
+
+
