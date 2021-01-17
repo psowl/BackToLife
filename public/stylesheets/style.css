@@ -418,22 +418,21 @@ footer a:hover {
   text-align: center;
   padding: 50px; }
 
-  .myprofilepage .profilepostcard img {
-    display: block;
-    width: 100%;
-    height: 15em;
-    object-fit: cover; }
-  
-  .myprofilepage .profilepostcard ul {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-around;
-    }
-  
-  .myprofilepage .profilepostcard li {
-    list-style: none; 
+.myprofilepage .profilepostcard img {
+  display: block;
+  width: 100%;
+  height: 15em;
+  object-fit: cover; }
+
+.myprofilepage .profilepostcard ul {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around; }
+
+.myprofilepage .profilepostcard li {
+  list-style: none;
   width: 400px;
-  margin-bottom: 20px;}
+  margin-bottom: 20px; }
 
 .postcardtext h1 {
   color: white; }
